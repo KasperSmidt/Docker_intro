@@ -1,2 +1,2 @@
 from rocker/rstudio
-run apt-get update && apt-get install -y git curl
+run apt-get update && apt-get install -y git curl wget
