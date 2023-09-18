@@ -1,3 +1,2 @@
-# Hello-World
-This is my first repository.
-I am looking forward to learning more
+from rocker/rstudio
+run apt-get update && apt-get install -y git wget
